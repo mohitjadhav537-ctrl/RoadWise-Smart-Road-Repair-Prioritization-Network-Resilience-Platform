@@ -1,0 +1,4 @@
+id,name,lat,lng,is_critical,critical_type
+INT_EXAMPLE_01,City Hospital North Gate,28.6570,77.2410,true,hospital
+INT_EXAMPLE_02,Market Chowk Junction,28.6350,77.2600,false,
+INT_EXAMPLE_03,Fire Station 2 Gate,28.6480,77.2800,true,fire_station

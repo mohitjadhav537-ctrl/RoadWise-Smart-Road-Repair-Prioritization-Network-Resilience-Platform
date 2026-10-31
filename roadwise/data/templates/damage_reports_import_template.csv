@@ -1,0 +1,4 @@
+id,segment_id,reported_by_user_id,reported_at,damage_type,severity,description,photo_url,latitude,longitude,status,verified_by_user_id,verified_at,inspector_notes
+RPT_EXAMPLE_01,SEG_001,inspector1,2024-06-01T09:30:00,pothole,8,Large pothole 60cm diameter near hospital entrance causing traffic hazard,,28.6570,77.2410,pending,,,
+RPT_EXAMPLE_02,SEG_013,citizen_user,2024-06-02T14:15:00,surface_cracking,5,Multiple longitudinal cracks across full lane width,,28.6150,77.2500,verified,inspector1,2024-06-03T10:00:00,Confirmed — surface cracks span 40m stretch
+RPT_EXAMPLE_03,SEG_039,engineer1,2024-06-03T08:00:00,structural_damage,9,Bridge deck showing exposed rebar and significant spalling on abutment,,28.6670,77.2920,work_order_raised,engineer1,2024-06-03T09:00:00,Emergency assessment completed — closure recommended

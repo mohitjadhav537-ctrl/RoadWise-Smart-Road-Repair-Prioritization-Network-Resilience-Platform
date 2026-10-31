@@ -1,0 +1,4 @@
+id,name,road_classification,from_node_id,to_node_id,length_m,surface_type,condition,severity,traffic_importance,connectivity_importance,is_closed,repair_cost,repair_duration_days,status,data_source
+SEG_EXAMPLE_01,Main Market Road,primary,INT_HOSP_01,N27,500,asphalt,poor,7,8,7,false,750000,14,pending,YOUR_DATA_SOURCE
+SEG_EXAMPLE_02,Residential Lane Block A,residential,N1,N2,200,gravel,critical,9,5,4,true,300000,7,closed,YOUR_DATA_SOURCE
+SEG_EXAMPLE_03,Bypass Arterial North,arterial,N10,N30,1200,concrete,good,2,9,9,false,100000,3,good,YOUR_DATA_SOURCE

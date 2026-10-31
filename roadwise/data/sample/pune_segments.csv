@@ -1,0 +1,101 @@
+id,name,road_classification,from_node_id,to_node_id,length_m,surface_type,condition,severity,traffic_importance,connectivity_importance,is_closed,repair_cost,repair_duration_days,status,data_source
+SEG_001,Sassoon Hospital Approach Road,primary,INT_HOSP_01,N8,280,asphalt,critical,9,10,9,false,1400000,18,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_002,Deenanath Hospital Access Lane,primary,INT_HOSP_02,N17,320,asphalt,critical,8,9,8,false,950000,12,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_003,Sambhaji River Bridge (Alka Talkies),arterial,N18,N3,510,concrete,critical,10,10,10,false,2200000,30,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_004,Sangamwadi Mula-Mutha River Bridge,arterial,N19,N14,640,concrete,poor,8,9,10,false,1850000,28,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_005,PMC Central Fire Brigade Run Lane,primary,INT_FIRE_01,N2,210,asphalt,critical,9,10,9,false,650000,10,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_006,Pune Station Central Transit Spine,primary,INT_TRANS_01,N8,380,asphalt,poor,7,9,9,false,820000,14,in_progress,PMC_PUNE_MUNICIPAL_DATA
+SEG_007,Police Commissionerate Road,primary,INT_POLICE_01,N13,290,asphalt,fair,5,8,7,false,360000,7,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_008,JM Road (Jangali Maharaj Road),arterial,N1,N3,1250,asphalt,poor,7,9,8,false,1150000,15,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_009,FC Road (Fergusson College Road),arterial,N3,N1,1180,asphalt,fair,5,9,8,false,620000,10,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_010,Karve Road Central Corridor,arterial,N3,N17,1420,asphalt,good,3,9,8,false,340000,6,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_011,Karve Road Kothrud Stretch,arterial,N17,N5,1850,asphalt,fair,6,9,8,false,880000,14,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_012,Ganeshkhind Road University Link,arterial,N1,N4,1650,asphalt,poor,7,9,9,false,1200000,16,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_013,Senapati Bapat Road,arterial,N4,N3,1920,asphalt,fair,5,8,8,false,750000,12,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_014,University Circle to Aundh Road,arterial,N4,N9,2100,asphalt,fair,5,8,8,false,920000,14,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_015,Aundh to Baner High Street Connector,secondary,N9,N10,1750,asphalt,good,2,7,7,false,280000,5,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_016,Baner Road NH48 Bypass Link,arterial,N10,N20,2400,asphalt,poor,7,8,8,false,1350000,18,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_017,Wakad to Hinjawadi IT Spine (Phase 1),arterial,N20,N11,2800,concrete,critical,9,10,9,false,2450000,30,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_018,Kothrud to Chandani Chowk Paud Link,arterial,N5,N21,1650,asphalt,fair,5,8,8,false,680000,11,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_019,Bavdhan to Chandani Chowk Arterial,secondary,N40,N21,1100,asphalt,fair,4,7,7,false,420000,8,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_020,Pashan to Bavdhan Connector,secondary,N39,N40,1520,asphalt,good,2,6,6,false,190000,4,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_021,Pashan Circle to University Road,secondary,N39,N4,1880,asphalt,poor,6,7,7,false,720000,12,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_022,Khadki to Old Mumbai-Pune Highway,arterial,N22,N26,3400,concrete,poor,7,9,9,false,1950000,24,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_023,Shivajinagar to Khadki Road,arterial,N1,N22,2100,asphalt,fair,4,8,8,false,580000,10,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_024,Pimpri to Chinchwad Station Road,arterial,N26,N27,1450,concrete,good,3,8,8,false,380000,6,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_025,Chinchwad to Nigdi Pradhikaran,arterial,N27,N28,2200,concrete,good,2,8,8,false,410000,7,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_026,Nigdi to Dehu Road Highway,highway,N28,N33,3900,concrete,fair,4,9,9,false,1600000,20,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_027,Bhosari Alandi Link Road,arterial,N26,N29,3100,asphalt,poor,7,7,7,false,1100000,16,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_028,Vishrantwadi to Airport Road,secondary,N30,N32,2300,asphalt,fair,5,7,8,false,690000,11,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_029,Yerawada to Vishrantwadi Alandi Rd,arterial,N14,N30,1950,asphalt,poor,7,8,8,false,890000,14,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_030,Yerawada to Ahmednagar Road (Viman Nagar),arterial,N14,N7,2850,asphalt,poor,8,10,9,false,1650000,22,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_031,Viman Nagar to Pune Airport Link,secondary,N7,N32,1650,asphalt,fair,4,8,8,false,480000,8,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_032,Viman Nagar to Kharadi Bypass Road,arterial,N7,N37,2400,asphalt,critical,9,9,9,false,1750000,24,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_033,Kharadi IT Park to Wagholi Road,arterial,N37,N38,2900,asphalt,poor,8,8,8,false,1300000,18,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_034,Bund Garden River Bridge (Yerawada Link),arterial,N8,N31,1100,concrete,critical,9,10,10,true,2100000,30,closed,PMC_PUNE_MUNICIPAL_DATA
+SEG_035,Bund Garden to Koregaon Park North Main,secondary,N31,N16,1350,asphalt,fair,4,7,7,false,450000,8,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_036,Koregaon Park to Mundhwa River Bridge,arterial,N16,N25,2100,asphalt,poor,7,8,9,false,1150000,16,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_037,Mundhwa Bridge to Magarpatta City,arterial,N25,N15,1800,asphalt,fair,5,8,8,false,720000,12,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_038,Magarpatta to Hadapsar Gadital,arterial,N15,N6,1600,asphalt,fair,5,9,9,false,680000,11,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_039,Pune-Solapur Road Hadapsar Stretch,arterial,N24,N6,2600,asphalt,poor,8,9,9,false,1450000,20,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_040,Fatima Nagar to Pune Camp Road,arterial,N24,N13,2100,asphalt,fair,4,8,8,false,590000,10,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_041,Camp MG Road to Pune Station,primary,N13,N8,1750,asphalt,fair,5,8,8,false,510000,9,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_042,Swargate to Pune Camp Link Road,arterial,N2,N13,1950,asphalt,fair,5,8,8,false,630000,11,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_043,Swargate to Marketyard Gultekdi,secondary,N2,N43,1400,asphalt,good,3,7,7,false,290000,5,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_044,Marketyard to Bibvewadi Gangadham,secondary,N43,N44,1250,asphalt,poor,6,6,6,false,490000,8,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_045,Pune-Satara Road (Swargate to Katraj),arterial,N2,N12,4100,asphalt,critical,9,10,9,false,2800000,35,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_046,Dhankawadi to Katraj Ghat Bypass,arterial,N34,N12,1300,asphalt,fair,5,8,8,false,550000,9,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_047,Swargate to Dhankawadi Bharati Road,arterial,N2,N34,2600,asphalt,poor,7,8,8,false,1100000,16,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_048,Katraj to Kondhwa NIBM Link Road,secondary,N12,N35,3200,asphalt,poor,8,7,7,false,1380000,20,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_049,Kondhwa to Undri Chowk Road,secondary,N35,N36,1900,asphalt,poor,7,6,6,false,760000,12,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_050,Swargate to Alka Talkies (Tilak Road),arterial,N2,N18,1650,asphalt,fair,4,8,8,false,520000,9,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_051,Alka Talkies to Deccan Gymkhana,arterial,N18,N3,650,asphalt,fair,4,8,8,false,220000,4,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_052,PMC Headquarters to Shaniwar Wada,primary,N45,N18,850,asphalt,good,3,8,8,false,210000,4,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_053,Shivajinagar to PMC Headquarters,arterial,N1,N45,1150,asphalt,fair,4,9,9,false,420000,7,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_054,Swargate to Sinhagad Road Junction,arterial,N2,N41,2700,asphalt,poor,8,9,8,false,1550000,22,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_055,Sinhagad Road to Dhayari Phata,arterial,N41,N42,2200,asphalt,critical,9,9,8,false,1480000,21,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_056,Warje to Sinhagad Road Link Bridge,arterial,N23,N41,1850,asphalt,poor,7,8,8,false,950000,15,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_057,Kothrud to Warje Flyover Road,arterial,N5,N23,2100,asphalt,fair,5,8,8,false,680000,11,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_058,Deccan to Kothrud Karve Flyover,arterial,N3,N5,2900,asphalt,fair,4,9,8,false,780000,12,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_059,Sangamwadi to Bund Garden Link,arterial,N19,N31,1650,concrete,fair,4,8,9,false,610000,10,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_060,Pune Station to Sangamwadi Road,arterial,N8,N19,1200,asphalt,fair,5,8,8,false,490000,8,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_061,Aundh to Khadki River Bridge,secondary,N9,N22,1750,concrete,poor,7,7,8,false,820000,13,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_062,Baner to Pashan Link Road,secondary,N10,N39,1450,asphalt,good,2,6,6,false,180000,4,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_063,Hinjawadi Phase 1 to Phase 2 Arterial,arterial,N11,N20,2650,concrete,poor,7,9,9,false,1600000,22,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_064,Wakad to Pimpri Link Road,arterial,N20,N26,3100,asphalt,poor,6,8,8,false,1150000,17,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_065,Bhosari to Vishrantwadi Spine,arterial,N29,N30,3800,asphalt,poor,8,8,8,false,1850000,25,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_066,Kharadi to Mundhwa IT Link,secondary,N37,N25,1600,asphalt,fair,5,8,8,false,620000,10,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_067,Hadapsar to Wanowrie Link,secondary,N6,N24,1950,asphalt,fair,4,7,7,false,510000,8,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_068,Kondhwa to Fatima Nagar Road,secondary,N35,N24,1850,asphalt,poor,7,7,7,false,790000,12,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_069,Bibvewadi to Katraj Inner Ring,secondary,N44,N12,2400,asphalt,poor,6,7,7,false,860000,14,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_070,Warje to Chandani Chowk NH48,highway,N23,N21,2900,concrete,fair,4,9,9,false,1200000,16,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_071,Sinhagad Road Dhayari Canal Bridge,secondary,N41,N42,1450,asphalt,poor,7,7,7,false,630000,10,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_072,Camp East Street Retail Stretch,primary,N13,N8,1100,asphalt,fair,4,7,7,false,350000,6,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_073,Koregaon Park South Main Road,secondary,N16,N8,1600,asphalt,good,3,7,7,false,310000,5,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_074,Shivajinagar to Deccan Metro Corridor,arterial,N1,N3,1300,concrete,good,2,9,8,false,280000,5,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_075,University to Senapati Bapat Flyover,arterial,N4,N3,1450,concrete,good,3,9,8,false,360000,6,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_076,Aundh DP Road River Stretch,secondary,N9,N4,1850,asphalt,fair,5,7,7,false,590000,9,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_077,Baner Sus Road Connector,secondary,N10,N40,2100,asphalt,poor,7,7,7,false,820000,13,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_078,Hinjawadi to Wakad Flyover Branch,arterial,N11,N20,2400,concrete,fair,5,9,9,false,950000,14,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_079,Nigdi to Chinchwad Spine,arterial,N28,N27,2150,concrete,good,3,8,8,false,410000,7,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_080,Pimpri Industrial Link Road,secondary,N26,N29,2600,asphalt,poor,7,7,7,false,940000,14,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_081,Airport to Vishrantwadi Road,secondary,N32,N30,2250,asphalt,fair,4,8,8,false,610000,10,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_082,Wagholi to Kharadi IT Link,arterial,N38,N37,2700,asphalt,critical,9,9,8,false,1750000,24,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_083,Magarpatta to Kharadi South Link,secondary,N15,N37,2150,asphalt,fair,5,8,8,false,730000,11,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_084,Hadapsar Saswad Road Junction,arterial,N6,N24,2400,asphalt,poor,7,8,8,false,990000,15,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_085,Undri to Kondhwa Main Street,secondary,N36,N35,1650,asphalt,fair,5,6,6,false,470000,8,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_086,Marketyard to Swargate South Link,secondary,N43,N2,1250,asphalt,fair,4,7,7,false,380000,6,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_087,Gangadham to Kondhwa Connector,secondary,N44,N35,2100,asphalt,poor,7,7,7,false,810000,13,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_088,Dhayari to Katraj Hill Bypass,secondary,N42,N12,3200,asphalt,poor,8,7,7,false,1350000,20,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_089,Sinhagad to Swargate Riverside Road,arterial,N41,N2,2450,asphalt,fair,5,8,8,false,760000,12,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_090,PMC Head Office to Swargate Shivaji Rd,arterial,N45,N2,1750,asphalt,poor,7,9,9,false,890000,14,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_091,Shaniwar Wada to Deccan Z-Bridge,secondary,N18,N3,780,asphalt,good,3,7,7,false,190000,4,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_092,Law College Road (Karve to SB Road),arterial,N17,N4,1850,asphalt,fair,4,8,8,false,590000,9,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_093,Paud Road Kothrud to Bavdhan,secondary,N5,N40,1950,asphalt,fair,5,7,7,false,640000,10,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_094,Deccan to Shivajinagar Riverbed Road,secondary,N3,N1,1100,concrete,poor,7,7,7,false,520000,8,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_095,Yerawada to Bund Garden Approach,arterial,N14,N31,1450,asphalt,poor,7,9,9,false,780000,12,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_096,Camp to Wanowrie Command Hospital,secondary,N13,N24,1900,asphalt,fair,4,8,8,false,510000,8,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_097,Khadki to Vishrantwadi River Bridge,secondary,N22,N30,2100,concrete,critical,9,8,8,false,1450000,20,pending,PMC_PUNE_MUNICIPAL_DATA
+SEG_098,Bhosari to Nigdi Spine,highway,N29,N28,4200,concrete,good,3,9,9,false,1100000,15,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_099,Pune Airport VIP Access Corridor,primary,N32,N7,1500,concrete,fair,4,9,9,false,480000,7,good,PMC_PUNE_MUNICIPAL_DATA
+SEG_100,PMC Central Municipal Arterial,arterial,N45,N1,1200,asphalt,poor,6,9,9,false,590000,9,pending,PMC_PUNE_MUNICIPAL_DATA

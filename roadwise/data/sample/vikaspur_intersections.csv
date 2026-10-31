@@ -1,0 +1,51 @@
+id,name,lat,lng,is_critical,critical_type
+INT_HOSP_01,Sassoon General Hospital Gate,18.5262,73.8715,true,hospital
+INT_HOSP_02,Deenanath Mangeshkar Hospital Gate,18.5015,73.8327,true,hospital
+INT_FIRE_01,PMC Central Fire Brigade Headquarters,18.5085,73.8615,true,fire_station
+INT_TRANS_01,Pune Railway Station Central Hub,18.5289,73.8744,true,transit
+INT_POLICE_01,Pune Police Commissionerate Camp,18.5240,73.8790,true,police
+N1,Shivajinagar Junction & Metro Station,18.5314,73.8446,false,
+N2,Swargate Multi-Modal Bus Terminal,18.5018,73.8586,false,
+N3,Deccan Gymkhana Good Luck Chowk,18.5168,73.8415,false,
+N4,Savitribai Phule Pune University Circle,18.5412,73.8276,false,
+N5,Kothrud Karve Statue Chowk,18.5074,73.8077,false,
+N6,Hadapsar Gadital Chowk,18.5029,73.9272,false,
+N7,Viman Nagar Phoenix Mall Chowk,18.5679,73.9143,false,
+N8,Pune Station Sassoon Hospital Chowk,18.5275,73.8730,false,
+N9,Aundh Parihar Chowk,18.5602,73.8070,false,
+N10,Baner High Street Junction,18.5590,73.7786,false,
+N11,Hinjawadi Shivaji Chowk Phase 1,18.5913,73.7389,true,transit
+N12,Katraj Snake Park Junction,18.4575,73.8587,false,
+N13,Camp MG Road Aurora Towers Chowk,18.5144,73.8797,false,
+N14,Yerawada Gunjan Chowk,18.5521,73.8824,false,
+N15,Magarpatta City Main Gate,18.5147,73.9287,false,
+N16,Koregaon Park North Main Road,18.5362,73.8940,false,
+N17,Nal Stop Karve Road Flyover,18.5098,73.8315,false,
+N18,Alka Talkies Sambhaji River Bridge,18.5155,73.8475,true,bridge
+N19,Sangamwadi Mula-Mutha River Bridge,18.5350,73.8625,true,bridge
+N20,Wakad Chowk NH48 Highway,18.5982,73.7628,false,
+N21,Chandani Chowk Multilevel Bypass,18.5080,73.7820,false,
+N22,Khadki Bazaar Cantonment,18.5645,73.8340,false,
+N23,Warje Flyover Chowk,18.4820,73.8015,false,
+N24,Fatima Nagar Wanowrie Chowk,18.4985,73.8980,false,
+N25,Mundhwa River Bridge Junction,18.5370,73.9315,true,bridge
+N26,Pimpri Dr Ambedkar Chowk,18.6275,73.8010,false,
+N27,Chinchwad Station Chowk,18.6360,73.7890,false,
+N28,Nigdi Bhakti Shakti Chowk,18.6530,73.7715,false,
+N29,Bhosari Alandi Phata Junction,18.6210,73.8450,false,
+N30,Vishrantwadi Chowk,18.5710,73.8760,false,
+N31,Bund Garden Fitzgerald River Bridge,18.5395,73.8820,true,bridge
+N32,Pune International Airport Lohegaon,18.5822,73.9197,true,transit
+N33,Dehu Road Cantonment Bypass,18.6850,73.7220,false,
+N34,Dhankawadi Bharati Vidyapeeth Hospital,18.4610,73.8540,false,
+N35,Kondhwa NIBM Road Chowk,18.4780,73.8920,false,
+N36,Undri Chowk,18.4620,73.9110,false,
+N37,Kharadi EON IT Park Circle,18.5516,73.9535,false,
+N38,Wagholi Kesnand Phata,18.5810,73.9850,false,
+N39,Pashan Circle DRDO,18.5410,73.7910,false,
+N40,Bavdhan Chandani Chowk North,18.5170,73.7750,false,
+N41,Sinhagad Road Anand Nagar,18.4810,73.8290,false,
+N42,Dhayari Phata Pari Company,18.4550,73.8160,false,
+N43,Marketyard Gultekdi Gate,18.4890,73.8640,false,
+N44,Bibvewadi Gangadham Chowk,18.4790,73.8690,false,
+N45,PMC Main Municipal Headquarters,18.5204,73.8567,true,transit
